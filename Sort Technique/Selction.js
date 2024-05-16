@@ -1,4 +1,5 @@
-let arr = [13, 46, 24, 52, 20, 9];
+// let arr = [13, 46, 24, 52, 20, 9];
+let arr = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 let n = arr.length;
 console.log(arr.join(' '));
 console.log("Selection Sort");
