@@ -1,8 +1,9 @@
 // let arr = [13, 46, 24, 52, 20, 9];
 let arr = [10, 9, 8, 7, 6, 5, 4, 3, 2, 1];
 let n = arr.length;
+console.log("Before Selection Sort");
 console.log(arr.join(' '));
-console.log("Selection Sort");
+console.log("After Selection Sort");
 // 1st : lets make them in ascending order
 // 2nd : swap the smallest values
 
